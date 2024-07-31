@@ -96,6 +96,22 @@ To assist with design tasks, we recommend the following tools and resources:
 - **Color Tools**: Adobe Color, Coolors.co.
 - **Font Resources**: Google Fonts, Font Squirrel.
 
+## Scheduled Zoom Meetings.
+
+Topic: CLENT Africa’s Weekly Design Meeting
+Time: Jul 31, 2024 12:00 PM West Central Africa
+Every week on Wed, 52 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://us05web.zoom.us/meeting/tZYsdO6urTgiGtNFdaanRCzq8upppp4R7jnZ/ics?icsToken=98tyKuGqrzgtHNeWuBmARpwQBYjCKO7ztnZHjbdzuhvkAi5hQRnnbvdSIqJvROqH
+
+Join Zoom Meeting
+https://us05web.zoom.us/j/82137633807?pwd=exQndVCWgpTObNIZ7fJrvyn7rZGLJU.1
+
+Meeting ID: 821 3763 3807
+Passcode: y21jgf
+
+Looking forward to our productive session.
+
 ## Contact Information
 
 For any questions or further assistance, please contact us:
